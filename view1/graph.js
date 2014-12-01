@@ -1,5 +1,5 @@
-var data1 = {
-"AK": { "fillKey": "null", "numArtist": 0},
+var data1 = { 
+"AK": { "fillKey": "null", "numArtist": 0}, 
 "HI": { "fillKey": "null", "numArtist": 0},
 "AL": { "fillKey": "null", "numArtist": 10},
 "AZ": { "fillKey": "null", "numArtist": 8},
